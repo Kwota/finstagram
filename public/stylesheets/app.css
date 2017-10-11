@@ -1,0 +1,29 @@
+header{
+    background-color: #244751;
+    color: #e8fdff;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+main{
+    background-color: white;
+    padding: 16px;
+}
+
+.post{
+    margin-bottom: 48px;
+}
+
+.post .user-info img{
+    border-radius: 50%;
+}
+
+h2:hover{
+    background-color: grey;
+}
+
+.actions{
+    color: green;
+}
